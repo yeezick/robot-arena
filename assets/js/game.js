@@ -1,1 +1,4 @@
-window.alert("this is an alert! js is running!")
+function fight() {
+  var playerName = window.prompt("what is your robot's name?")
+}
+fight();
